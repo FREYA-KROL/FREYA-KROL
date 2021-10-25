@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FREYA-KROL
 - 👀 I’m interested in data engineering, data analysis, content design, user research
-- 🌱 I’m currently learning Python, SQL, HMTL and CSS, how to use Django and Quickpoint, and the basics of programming, in theory and in practice!
+- 🌱 I’m currently learning Python, SQL, HMTL and CSS, and the basics of programming, in theory and in practice!
 
 
 
