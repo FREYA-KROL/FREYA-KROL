@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FREYA-KROL
-- 👀 I’m interested in data engineering, data analysis, content design, user research
-- 🌱 I’m currently learning Python, SQL, HMTL and CSS, and the basics of programming, in theory and in practice!
+- 👀 Interests: data engineering, data analysis, content design, user research and technical writing. 
+- 🌱 I am a Civil Servant Fast Streamer, on posting as a Data Engineer in the Department for International Trade. 
 
 
 
