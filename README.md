@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FREYA-KROL
-- 👀 Interests: data engineering, data analysis, content design, user research and technical writing. 
+- 👀 Interests: data engineering, data analysis, user research, service design and technical writing. 
 - 🌱 I am a Civil Servant Fast Streamer, on posting as a Data Engineer in the Department for International Trade. 
 
 
